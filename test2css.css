@@ -1,0 +1,64 @@
+body{
+    background-color: black;
+}
+.black{
+    background-color: white;
+    color:grey;
+}
+.container1{
+    width: 1728px;
+    height: 1117px;
+}
+.me{
+    background-color: black;
+    margin-bottom: 0px;
+}
+.material-icons{
+    width: 18px;
+    height: 18px;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+.nav{
+    border-bottom: 2px solid black;
+}
+.ok{
+    border-right: 2px solid black;
+    padding: 10px 0px;
+    margin-right: 490px;
+}
+.ok1{
+    border-left: 2px solid black;
+    padding: 10px 0px;
+    margin-left: 490px;
+}
+.name{
+    padding:10px 10px;
+    margin:10px 0px; 
+}
+.resume{
+    padding-left: 10px;
+    
+}
+.container{
+    display: flex;
+}
+.image{
+    width: 783px;
+    height: 1039px;
+    border-left: 2px solid black;
+}
+.b{
+    height: 1039px;
+}
+.bl1{
+    border-bottom: 2px solid black;
+    padding-bottom: 20px;
+}
+.sk{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px 5px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
